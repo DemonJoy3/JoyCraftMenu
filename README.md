@@ -2,8 +2,6 @@
 
 Мод меню JoyCraft для Minecraft Fabric 1.16.5.
 
-![JoyCraft menu](menu.png)
-
 Автор: Demon  
 Сервер: 45.131.186.59:25565
 
