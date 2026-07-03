@@ -10,6 +10,6 @@
 
 ИНСТРУКЦИЯ 
 
-fabric-api-0.42.0+1.16.jar и GriefClientButtons-1.16.5-1.0.0.jar 
+fabric-api-0.42.0+1.16.jar, GriefClientButtons-1.16.5-1.0.0.jar и JoyCraftHUD-1.16.5-1.0.3.jar
 надо поместить в файл C:\Users\"user"\AppData\Roaming\.minecraft\mods
 И выбрать при запуске игры версию: fabric-loader-0.14.25-1.16.5
